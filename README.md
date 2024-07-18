@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 🌴 🦖 [![Github](https://img.shields.io/github
 
 [![Personal Website](https://img.shields.io/badge/Personal_Website-ffffff?style=plastic&logo=astro&logoColor=8f0595)](https://schavez.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=plastic&logo=linkedin&logoColor=0690FA)](https://www.linkedin.com/in/sebastian-ch)
-[![Medium](https://img.shields.io/badge/Medium-ffffff?style=plastic&logo=medium&logoColor=000000)](https://schavez.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-ffffff?style=plastic&logo=medium&logoColor=000000)](https://medium.com/@sebastian.chavez.o)
 [![Research Gate](https://img.shields.io/badge/Research_Gate-ffffff.svg?&style=plastic&logo=ResearchGate&logoColor=28c27a)](https://www.researchgate.net/profile/Sebastian-Chavez-Orellana-2)
 <a href="https://orcid.org/0009-0009-9853-9963" target="orcid.widget" ><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" style="width:20px; height:20px;" alt="ORCID iD icon"></a>
 
