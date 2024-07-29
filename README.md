@@ -1,7 +1,7 @@
 <!---                                        🌴 🦖                                        --->
 # Hi, I'm Sebastian Chavez! 👋
 
-Welcome to my GitHub profile! 🌴 🦖 [![Github](https://img.shields.io/github/followers/Seba3995?label=Follow&style=social)](https://github.com/Seba3995)
+Welcome to my GitHub profile! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=Seba3995&style=plastic&color=6071d7) [![Github](https://img.shields.io/github/followers/Seba3995?label=Follow&style=social)](https://github.com/Seba3995)
 <!---
 ## GitHub Stats
 ![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=seba3995&show_icons=true&theme=cobalt)--->
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! 🌴 🦖 [![Github](https://img.shields.io/github
 ## Publications
 |Link|Name|
 |--|----|
-[![DOI](https://img.shields.io/badge/DOI-10.5772/intechopen.112873-blue.svg?style=plastic&labelColor=6d0000&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBjbGFzcz0ibG9nbyIgd2lkdGg9IjM0cHgiIGhlaWdodD0iMzRweCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNDkgNDkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00ODggLTIxKSIgZmlsbD0iI0ZGRkFEMiI+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ4OCAyMSkiPgo8cGF0aCBkPSJtMTguNDA5IDcuMDkzNmwtMTQuNzQyIDguMjU0M2MtMS4wNDkgMC41OTE2Mi0xLjcwMDcgMS43MDcxLTEuNzAwNyAyLjkxMXYxNC43OTVsLTEuMDk3My0wLjQwODc0Yy0wLjUyMjc4LTAuMTk0NzktMC44Njk1OC0wLjY5Mzk0LTAuODY5NTgtMS4yNTE5di0zMC4wMjNjMC0wLjk1MjkxIDAuOTQ5MTItMS42MTQ2IDEuODQzLTEuMjg1bDE2LjQ5MyA2LjA3NzdjMC40MTE2NyAwLjE1MTY2IDAuNDU2MDEgMC43MTU4NSAwLjA3MzUgMC45MzAxNG0xOS44ODYgMTUuNTljLTAuMTE3MzIgMC40NDA0OC0wLjQ3MjkyIDAuNzk2MDgtMC45MTMyMyAwLjkxMzQtMS4wMTM1IDAuMjcwMzYtMS45MTI3LTAuNjI5MjQtMS42NDIyLTEuNjQyNyAwLjExNzUtMC40NDAxNCAwLjQ3MzA5LTAuNzk1NzMgMC45MTM1Ny0wLjkxMjg4IDEuMDEzLTAuMjY5NjcgMS45MTE3IDAuNjI5MjQgMS42NDE4IDEuNjQyMm05Ljc5NzIgNy41NjQxYy0wLjUyOTg2LTAuMjM5NjUtMS4xNTc3LTAuMDY3NjM0LTEuNTQzMyAwLjM2NzVsLTAuMDI3MjYxIDAuMDMwNTM5Yy0xLjI1ODggMS40MzM0LTIuODExMSAyLjU0MjctNC41MjUxIDMuMjc3OC0wLjAwNTM0ODYgMC4wMDIyNDMgMC0xMS41ODIgMC0xMS41ODIgMC04LjQ3OC02Ljg4NDMtMTUuMzUxLTE1LjM2My0xNS4zNTEtMi4zNjI3IDAtNC43NzM1IDAuNDkzMTEtNi44NTE1IDEuNjQyMi0xLjgwMTMgMC45OTYwNS0xMi4zMjEgNi44OTgzLTE1LjEyIDguNDY5Mi0wLjQyNDA5IDAuMjM3OTMtMC42ODQxIDAuNjg0OTYtMC42ODQxIDEuMTcxMnYyOS4zMTFjMCAxLjAwOTMgMS4wODYxIDEuNjQ1NiAxLjk2NjcgMS4xNTI0bDEzLjA3Mi03LjMyNTNjMC40MTcwMi0wLjIzMzc5IDAuNjc1My0wLjY3NDQ0IDAuNjc1My0xLjE1MjV2LTIyLjUyMmMwLTAuNDg2NTUgMC4zMjgzMy0wLjkzNzIxIDAuODA3MjktMS4wMjM3IDAuNjI5MjQtMC4xMTMzNiAxLjE3NjUgMC4zNjY5OCAxLjE3NjUgMC45NzUxN3Y0LjYwOTFsMC4wMDU1MjExLTAuMDEwODdjMCAwLjAwMzYyMzItMy40NWUtNCAwLjAwNzI0NjUtMy40NWUtNCAwLjAxMDg3IDAgOC40NTM5IDYuODc3MyAxNS4zMzEgMTUuMzMxIDE1LjMzMSAwLjc3MzY1IDAgMS41NC0wLjA2MTk0IDIuMjk0OS0wLjE3NjMzdjEwLjExNWMwIDAuNzM5MzEgMC41OTk1NiAxLjMzOSAxLjMzOSAxLjMzOSAwLjczOTMxIDAgMS4zMzg3LTAuNTk5NzMgMS4zMzg3LTEuMzM5di0xMC43NzJjMi40OTkzLTAuODU3MTUgNC43NjM1LTIuMzUxMyA2LjU0MTMtNC4zNzU1bDAuMDQwMjAxLTAuMDQ1NzIyYzAuNTg2NDUtMC42NTU2MyAwLjQwNzctMS43Mjk1LTAuNDc0MTMtMi4xMjgiLz4KPC9nPgo8L2c+CjwvZz4KPC9zdmc+Cg==)](https://www.intechopen.com/chapters/88059)|Community-Based and Everyday Life Gait Analysis:Approach to an Automatic Balance Assessment and Fall Risk Prediction in the Elderly
+[![DOI](https://img.shields.io/badge/DOI-10.5772/intechopen.112873-blue.svg?style=plastic&labelColor=6d0000&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBjbGFzcz0ibG9nbyIgd2lkdGg9IjM0cHgiIGhlaWdodD0iMzRweCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNDkgNDkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00ODggLTIxKSIgZmlsbD0iI0ZGRkFEMiI+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ4OCAyMSkiPgo8cGF0aCBkPSJtMTguNDA5IDcuMDkzNmwtMTQuNzQyIDguMjU0M2MtMS4wNDkgMC41OTE2Mi0xLjcwMDcgMS43MDcxLTEuNzAwNyAyLjkxMXYxNC43OTVsLTEuMDk3My0wLjQwODc0Yy0wLjUyMjc4LTAuMTk0NzktMC44Njk1OC0wLjY5Mzk0LTAuODY5NTgtMS4yNTE5di0zMC4wMjNjMC0wLjk1MjkxIDAuOTQ5MTItMS42MTQ2IDEuODQzLTEuMjg1bDE2LjQ5MyA2LjA3NzdjMC40MTE2NyAwLjE1MTY2IDAuNDU2MDEgMC43MTU4NSAwLjA3MzUgMC45MzAxNG0xOS44ODYgMTUuNTljLTAuMTE3MzIgMC40NDA0OC0wLjQ3MjkyIDAuNzk2MDgtMC45MTMyMyAwLjkxMzQtMS4wMTM1IDAuMjcwMzYtMS45MTI3LTAuNjI5MjQtMS42NDIyLTEuNjQyNyAwLjExNzUtMC40NDAxNCAwLjQ3MzA5LTAuNzk1NzMgMC45MTM1Ny0wLjkxMjg4IDEuMDEzLTAuMjY5NjcgMS45MTE3IDAuNjI5MjQgMS42NDE4IDEuNjQyMm05Ljc5NzIgNy41NjQxYy0wLjUyOTg2LTAuMjM5NjUtMS4xNTc3LTAuMDY3NjM0LTEuNTQzMyAwLjM2NzVsLTAuMDI3MjYxIDAuMDMwNTM5Yy0xLjI1ODggMS40MzM0LTIuODExMSAyLjU0MjctNC41MjUxIDMuMjc3OC0wLjAwNTM0ODYgMC4wMDIyNDMgMC0xMS41ODIgMC0xMS41ODIgMC04LjQ3OC02Ljg4NDMtMTUuMzUxLTE1LjM2My0xNS4zNTEtMi4zNjI3IDAtNC43NzM1IDAuNDkzMTEtNi44NTE1IDEuNjQyMi0xLjgwMTMgMC45OTYwNS0xMi4zMjEgNi44OTgzLTE1LjEyIDguNDY5Mi0wLjQyNDA5IDAuMjM3OTMtMC42ODQxIDAuNjg0OTYtMC42ODQxIDEuMTcxMnYyOS4zMTFjMCAxLjAwOTMgMS4wODYxIDEuNjQ1NiAxLjk2NjcgMS4xNTI0bDEzLjA3Mi03LjMyNTNjMC40MTcwMi0wLjIzMzc5IDAuNjc1My0wLjY3NDQ0IDAuNjc1My0xLjE1MjV2LTIyLjUyMmMwLTAuNDg2NTUgMC4zMjgzMy0wLjkzNzIxIDAuODA3MjktMS4wMjM3IDAuNjI5MjQtMC4xMTMzNiAxLjE3NjUgMC4zNjY5OCAxLjE3NjUgMC45NzUxN3Y0LjYwOTFsMC4wMDU1MjExLTAuMDEwODdjMCAwLjAwMzYyMzItMy40NWUtNCAwLjAwNzI0NjUtMy40NWUtNCAwLjAxMDg3IDAgOC40NTM5IDYuODc3MyAxNS4zMzEgMTUuMzMxIDE1LjMzMSAwLjc3MzY1IDAgMS41NC0wLjA2MTk0IDIuMjk0OS0wLjE3NjMzdjEwLjExNWMwIDAuNzM5MzEgMC41OTk1NiAxLjMzOSAxLjMzOSAxLjMzOSAwLjczOTMxIDAgMS4zMzg3LTAuNTk5NzMgMS4zMzg3LTEuMzM5di0xMC43NzJjMi40OTkzLTAuODU3MTUgNC43NjM1LTIuMzUxMyA2LjU0MTMtNC4zNzU1bDAuMDQwMjAxLTAuMDQ1NzIyYzAuNTg2NDUtMC42NTU2MyAwLjQwNzctMS43Mjk1LTAuNDc0MTMtMi4xMjgiLz4KPC9nPgo8L2c+CjwvZz4KPC9zdmc+Cg==)](https://www.intechopen.com/chapters/88059)|Community-Based and Everyday Life Gait Analysis: Approach to an Automatic Balance Assessment and Fall Risk Prediction in the Elderly
 
 
 <!---
@@ -49,21 +49,18 @@ Welcome to my GitHub profile! 🌴 🦖 [![Github](https://img.shields.io/github
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
 ![ggplot](https://img.shields.io/badge/ggplot2-276DC3?style=plastic&logo=r&logoColor=white)
 
-#### Frontend Technologies
+#### Web Development Technologies
 ![Astro](https://img.shields.io/badge/Astro-0C0C0C?style=plastic&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-
-#### Backend Technologies
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 
-#### Database & Tools
+#### Others
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)
-
 
