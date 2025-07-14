@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=
 <!---
 ## GitHub Stats
 ![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=seba3995&show_icons=true&theme=cobalt)--->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Seba3995&theme=one-dark-pro&card_width=600&hide_border=true&card_height=170)](#)
+[![](https://streak-stats.demolab.com?user=Seba3995&theme=one-dark-pro&card_width=600&hide_border=true&card_height=170)](#)
 
 ## Connect with me
 
