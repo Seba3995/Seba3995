@@ -36,7 +36,7 @@ Welcome to my GitHub profile! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)
 
-#### Data Science Frameworks/Libraries
+#### Data Science & Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
@@ -44,6 +44,7 @@ Welcome to my GitHub profile! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white)
 ![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=plastic&logo=r&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=plastic&logo=apache-spark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFA500?style=plastic&logo=duckduckgo&logoColor=white)
 
 #### Data Visualization Libraries
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=plastic&logo=seaborn&logoColor=white)
@@ -51,18 +52,28 @@ Welcome to my GitHub profile! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
 ![ggplot](https://img.shields.io/badge/ggplot2-276DC3?style=plastic&logo=r&logoColor=white)
 
-#### Web Development Technologies
+#### MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-0E1128?style=plastic)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnubash&logoColor=white)
+
+#### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-3B77A0?style=plastic)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+
+#### Web Applications & UI for Data
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C0C0C?style=plastic&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 
-#### Others
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+#### Productivity Tools
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)
-
