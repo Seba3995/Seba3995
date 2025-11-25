@@ -1,7 +1,6 @@
 <!---                                        🌴 🦖                                        --->
-# Hi, I'm Sebastian Chavez! 👋
+# Welcome! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=Seba3995&style=plastic&color=6071d7) [![Github](https://img.shields.io/github/followers/Seba3995?label=Follow&style=social)](https://github.com/Seba3995) 
 
-Welcome to my GitHub profile! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=Seba3995&style=plastic&color=6071d7) [![Github](https://img.shields.io/github/followers/Seba3995?label=Follow&style=social)](https://github.com/Seba3995)
 <!---
 ## GitHub Stats
 ![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=seba3995&show_icons=true&theme=cobalt)--->
@@ -11,7 +10,7 @@ Welcome to my GitHub profile! 🌴 🦖 ![](https://komarev.com/ghpvc/?username=
 
 </div>
 
-> **Connect with me**
+> **Connect with me** 🛸
 > 
 > [![Personal Website](https://img.shields.io/badge/Personal_Website-ffffff?style=plastic&logo=astro&logoColor=8f0595)](https://schavez.vercel.app/)
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=plastic&logo=linkedin&logoColor=0690FA)](https://www.linkedin.com/in/sebastian-ch)
