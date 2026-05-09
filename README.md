@@ -4,11 +4,11 @@
 <!---
 ## GitHub Stats
 ![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=seba3995&show_icons=true&theme=cobalt)--->
-<div align="center">
+<!-- <div align="center">
 
 [![](https://streak-stats.demolab.com?user=Seba3995&theme=one-dark-pro&card_width=600&hide_border=true&card_height=170)](#)
 
-</div>
+</div> -->
 
 > **Connect with me** 🛸
 > 
